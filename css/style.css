@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: f6f8f9;
+    background-color: #f6f8f9; 
 }
 
 header#header-logo h1{
@@ -18,4 +18,36 @@ header#header-logo h1{
 
 #header-logo{
     padding: 1rem;
+    background-color: white;
+}
+
+div.container{
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 0.2rem;
+}
+
+section#button-main{
+    margin-top: 3rem;
+    padding: 0.8rem 3rem;
+    border-bottom: 1px solid #f6f8f9; 
+}
+
+section button.style{
+    width: 6rem;
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+}
+
+section button.task{
+    color: white;
+    background-color: #47adf1;
+    border: none;
+}
+
+section button.select{
+    color: #d5d9dd;
+    background-color: white;
+    border: 1px solid #d5d9dd
 }
