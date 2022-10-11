@@ -94,7 +94,30 @@ header#header-logo h1{
 .marker-text{
     font-size: 0.7rem;
     color: white;
-    background-color: #45abea;
     padding: 0.4rem;
     border-radius: 0.7rem;
+}
+
+.color-b{
+    background-color: #45abea;
+}
+
+.color-c{
+    background-color: #9c72e4;
+}
+
+.color-g{
+    background-color: #64c0a9;
+}
+
+.color-o{
+    background-color: #f29e33;
+}
+
+.color-p{
+    background-color: #d863a1;
+}
+
+.color-pi{
+    background-color: #b0c926;
 }
