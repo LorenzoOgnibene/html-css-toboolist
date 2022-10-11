@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: f6f8f9;
+}
+
+header#header-logo h1{
+    display: inline-block;
+    font-size: 3rem;
+    font-family: 'Gill Sans', sans-serif;
+    vertical-align: top;
+    
+}
+
+#header-logo{
+    padding: 1rem;
+}
